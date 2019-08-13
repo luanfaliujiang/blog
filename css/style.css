@@ -518,3 +518,9 @@ figure.highlight .section {
 .gist .file {
   all: initial;
 }
+.image.is-128x128 {
+  margin: 0 auto;
+}
+.footer {
+  padding: 3rem 1.5rem 3rem;
+}
